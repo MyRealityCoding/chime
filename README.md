@@ -1,6 +1,6 @@
 ![logo](logo.png)
 -
-:wind_chime: Extracts versions from CHANGELOG.md, builds via Maven and releases to Github and Central.
+:wind_chime: Extracts versions from CHANGELOG.md, builds via Maven and releases to Github :octocat:.
 
 [![Build Status](https://travis-ci.org/MyRealityCoding/chime.svg?branch=master)](https://travis-ci.org/MyRealityCoding/chime)
 
