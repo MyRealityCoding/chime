@@ -1,0 +1,11 @@
+sudo: required
+
+services:
+  - docker
+
+branches:
+  only:
+  - deploy
+
+script:
+- docker build -t chime:latest .
