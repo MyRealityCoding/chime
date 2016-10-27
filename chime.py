@@ -6,11 +6,11 @@ import sys
 
 # determines if the text is an actual version
 def is_version(text):
-    return '#' in text
+    return '# Version ' in text
 
 # obtains the version from the text
 def get_version(text):
-    return text.replace('# ', '').strip()
+    return text.replace('# Version ', '').strip()
 
 file_path = sys.argv[1] + sys.argv[2]
 command = sys.argv[3]
