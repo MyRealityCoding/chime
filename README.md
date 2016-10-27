@@ -14,7 +14,7 @@
 
 To run *chime* type:
 ```bash
-docker run -v (pwd):/chime chime:latest <CHANGELOG.md file> <command>
+docker run -v (pwd):/chime bitbrain/chime:latest <CHANGELOG.md file> <command>
 ```
 
 # Commands
