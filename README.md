@@ -3,6 +3,8 @@
 :wind_chime: Extracts information from CHANGELOG.md files. :octocat:
 
 [![Build Status](https://travis-ci.org/MyRealityCoding/chime.svg?branch=deploy)](https://travis-ci.org/MyRealityCoding/chime)
+![Docker-Stars](https://img.shields.io/docker/stars/bitbrain/chime.svg)
+![Docker-Pulls](https://img.shields.io/docker/pulls/bitbrain/chime.svg)
 
 **:package: [Getting started](#getting-started) |**
 **:rocket: [License](#license) |**
