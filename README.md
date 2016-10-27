@@ -2,7 +2,7 @@
 -
 :wind_chime: Extracts information from CHANGELOG.md files. :octocat:
 
-[![Build Status](https://travis-ci.org/MyRealityCoding/chime.svg?branch=master)](https://travis-ci.org/MyRealityCoding/chime)
+[![Build Status](https://travis-ci.org/MyRealityCoding/chime.svg?branch=deploy)](https://travis-ci.org/MyRealityCoding/chime)
 
 **:package: [Getting started](#getting-started) |**
 **:rocket: [License](#license) |**
