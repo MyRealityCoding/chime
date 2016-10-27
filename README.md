@@ -1,6 +1,6 @@
 ![logo](logo.png)
 -
-:wind_chime: Extracts versions from CHANGELOG.md, builds via Maven and releases to Github :octocat:
+:wind_chime: Extracts information from CHANGELOG.md files. :octocat:
 
 [![Build Status](https://travis-ci.org/MyRealityCoding/chime.svg?branch=master)](https://travis-ci.org/MyRealityCoding/chime)
 
@@ -11,6 +11,16 @@
 ---
 
 # Getting started
+
+To run *chime* type:
+```bash
+docker run MyRealityCoding/chime <command>
+```
+
+# Commands
+
+* `version` retrieves the latest version
+* `text <version>` retrieves the text of the given version. Otherwise retrieves the latest text.
 
 # License
 
